@@ -48,13 +48,6 @@
 
 
 
-
-<!-- GitHub stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=svcbn&show_icons=true&theme=omni&hide_border=true&count_private=true" width=56% /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svcbn&layout=donut&show_icons=true&theme=omni&hide_border=true&count_private=true" width=38% /></a>
-
 [![ymsong1209's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymsong1209)](https://github.com/ymsong1209/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssupersam)](https://solved.ac/ssupersam/)
 
