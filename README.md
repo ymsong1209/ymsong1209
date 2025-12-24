@@ -3,16 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </p>
 
-<!-- Desc -->
+
 <div align="center">
-<h3><b>Hi! I'm YoungMin.</b></h3>
-<h4>I aim to be a developer people want to work with.</h4>
+<h3>재미를 위한 기술</h3>
+<h3>기술 속에서 성장하는 개발자 송영민입니다</h3>
 </div>
 <br/><br/>
 
-[![ymsong1209's GitHub stats](https://github-readme-stats-xi-two-lw63x29o0i.vercel.app/api?username=ymsong1209)](https://github.com/ymsong1209/github-readme-stats&count_private=true)
-[![Top Langs](https://github-readme-stats-xi-two-lw63x29o0i.vercel.app/api/top-langs/?username=ymsong1209&layout=compact)](https://github.com/ymsong1209/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssupersam)](https://solved.ac/ssupersam/)
+<a href="https://github.com/ymsong1209/github-readme-stats&count_private=true">
+  <img src="https://github-readme-stats-xi-two-lw63x29o0i.vercel.app/api?username=ymsong1209&show_icons=true&theme=omni&hide_border=true&count_private=true" width=56% /></a>
+<a href="https://github.com/ymsong1209/github-readme-stats">
+    <img src="https://github-readme-stats-xi-two-lw63x29o0i.vercel.app/api/top-langs/?username=ymsong1209&layout=donut&show_icons=true&theme=omni&hide_border=true&count_private=true" width=38% /></a>
 
 <p align="center">
   <a href="https://solved.ac/ssupersam"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssupersam"/></a>
@@ -26,7 +27,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
 <h3 align="center"> Game Engine </h3>
@@ -34,7 +35,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Steamworks-1E1E1E?style=for-the-badge&logo=steam&logoColor=white"/>
 </p>
 
 <h3 align="center"> Version Control </h3>
@@ -43,8 +43,6 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white"/>
-
 </p>
 
 <h3 align="center"> Collaboration Tools </h3>
@@ -65,7 +63,7 @@
 
 </p>
 
-<h3 align="center"> ✉ Contacts </h3>
+<h1 align="center"> Contacts </h1>
 <p align="center">
     <a href="mailto:ssupersam13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="mailto:ssupersam@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
