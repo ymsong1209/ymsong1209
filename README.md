@@ -10,6 +10,10 @@
 </div>
 <br/><br/>
 
+[![ymsong1209's GitHub stats](https://github-readme-stats-xi-two-lw63x29o0i.vercel.app/api?username=ymsong1209)](https://github.com/ymsong1209/github-readme-stats&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymsong1209&layout=compact)](https://github.com/ymsong1209/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssupersam)](https://solved.ac/ssupersam/)
+
 <!-- Skills -->
 <h3 align="center"><b> 🚀 Skills </b></h3>
 
@@ -48,8 +52,7 @@
 
 
 
-[![ymsong1209's GitHub stats](https://github-readme-stats-xi-two-lw63x29o0i.vercel.app/api?username=ymsong1209)](https://github.com/ymsong1209/github-readme-stats&include_all_commits=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssupersam)](https://solved.ac/ssupersam/)
+
 
 <!-- Footer -->
 <p align="center">
