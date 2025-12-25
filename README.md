@@ -11,9 +11,9 @@
 <br/><br/>
 
 <a href="https://github.com/ymsong1209/github-readme-stats&count_private=true">
-  <img src="https://github-readme-stats-xi-two-lw63x29o0i.vercel.app/api?username=ymsong1209&show_icons=true&theme=omni&hide_border=true&count_private=true" width=56% /></a>
+  <img src="https://github-readme-stats-eta-nine-10.vercel.app/api?username=ymsong1209&show_icons=true&theme=omni&hide_border=true&count_private=true" width=56% /></a>
 <a href="https://github.com/ymsong1209/github-readme-stats">
-    <img src="https://github-readme-stats-xi-two-lw63x29o0i.vercel.app/api/top-langs/?username=ymsong1209&layout=donut&show_icons=true&theme=omni&hide_border=true&count_private=true" width=38% /></a>
+    <img src="https://github-readme-stats-eta-nine-10.vercel.app/api/top-langs/?username=ymsong1209&layout=donut&show_icons=true&theme=omni&hide_border=true&count_private=true" width=38% /></a>
 
 <p align="center">
   <a href="https://solved.ac/ssupersam"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ssupersam"/></a>
