@@ -70,6 +70,8 @@
 </p>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Firecrackre/MaeDangTangTang/pull/1) in [Firecrackre/MaeDangTangTang](https://github.com/Firecrackre/MaeDangTangTang)
+<!--END_SECTION:activity-->
 
 
 
